@@ -1,0 +1,28 @@
+_repo: Walks-in-Rome_39308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hare, Augustus J. C. (Augustus John Cuthbert)
+    alias: Hare, Augustus John Cuthbert
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '2896'
+    url: http://www.gutenberg.org/2009/agents/2896
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome (Italy) -- Description and travel'
+- !lcc 'DG'
+title: Walks in Rome
+url: http://www.gutenberg.org/ebooks/39308
